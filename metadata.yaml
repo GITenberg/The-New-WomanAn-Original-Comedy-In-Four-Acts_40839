@@ -1,0 +1,29 @@
+_repo: The-New-WomanAn-Original-Comedy-In-Four-Acts_40839
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40839-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Grundy, Sydney
+    birthdate: 1848
+    deathdate: 1914
+    gutenberg_agent_id: '40847'
+    url: http://www.gutenberg.org/2009/agents/40847
+description: ''
+gutenberg_issued: '2012-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 19th century'
+- !lcc 'PR'
+- !lcsh 'Women -- Great Britain -- Drama'
+- !lcsh 'Married people -- Drama'
+- !lcsh 'Man-woman relationships -- Drama'
+title: 'The New Woman: An Original Comedy, in Four Acts'
+url: http://www.gutenberg.org/ebooks/40839
